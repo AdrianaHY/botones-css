@@ -1,0 +1,41 @@
+body {
+	padding: 50px;
+}
+
+.button {
+	padding: 15px;
+	color: #fff;
+	font-size: 20px;
+	margin: 10px;
+}
+
+.secondary-button {
+	background-color: #FAFAFA;
+	color: gray;
+}
+
+.primary-button {
+	background-color: #58ACFA;
+}
+
+.success-button {
+	background-color: #74DF00;
+}
+
+.warning-button {
+	background-color: orange;
+}
+
+.danger-button {
+	background-color: red;
+}
+
+.second-line-buttons button {
+	border-radius: 15px;
+}
+
+.last-buttons {
+	border-radius: 50%;
+	width: 95px;
+	height: 95px;
+}
